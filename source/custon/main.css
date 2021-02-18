@@ -1,0 +1,21 @@
+.covid_top 
+{
+    height: 70px;
+    background-color: black;
+    color: whitesmoke;
+}
+
+.covid_btn_color
+{
+    background-color: rgb(235, 87, 87)  !important;;
+}
+
+.name_small_logo
+{
+    font-size: small;
+}
+
+.back_ground_img
+{
+    background-image: url("../img/landscape.jpg");
+}
